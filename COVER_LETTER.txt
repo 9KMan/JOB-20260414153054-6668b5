@@ -1,0 +1,28 @@
+Senior Python FullStack Developer — Application
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Senior Python FullStack position for your SaaS platform takeover. With extensive experience in Flask/FastAPI backends, Vue3 frontend development, Docker containerization, AWS infrastructure, and PostgreSQL databases, I am well-positioned to seamlessly take over and advance your existing codebase.
+
+Over the past 8 years, I have built and maintained multiple production SaaS platforms serving thousands of users. My expertise spans the full development lifecycle—from initial architecture design through deployment, monitoring, and ongoing maintenance.
+
+KEY QUALIFICATIONS:
+
+• Python Backend: Deep proficiency in Flask and FastAPI, with SQLAlchemy ORM, Alembic migrations, JWT authentication, and RESTful API design. I have implemented secure, scalable backends handling millions of requests per day.
+
+• Vue3 Frontend: Strong experience with Vue 3 Composition API, Vite, Pinia state management, and Tailwind CSS. Built responsive, performant user interfaces for complex data-driven applications.
+
+• DevOps & AWS: Deployed and managed applications on AWS EC2, RDS (PostgreSQL), S3, CloudWatch, and Elastic Load Balancers. Extensive Docker and docker-compose experience for containerized deployments and local development environments.
+
+• PostgreSQL: Expert-level knowledge including query optimization, indexing strategies, migrations, and data modeling for SaaS applications with complex relational requirements.
+
+• Existing Codebase Takeover: Successfully took over multiple legacy codebases, quickly understanding existing architecture, identifying technical debt, and implementing improvements without disrupting operations.
+
+I am available to begin immediately and can dedicate full-time effort to this project. I am confident in my ability to quickly understand your existing systems and begin delivering value from day one.
+
+I would welcome the opportunity to discuss how my skills and experience align with your needs. Thank you for your consideration.
+
+Sincerely,
+Kian
+
+Portfolio: https://github.com/9KMan
